@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uegonfeat.github.io/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/app/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/assets/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/css/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/includes/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/item/uegonfeat.uegonfeat
+Sitemap: https://uegonfeat.github.io/src/uegonfeat.uegonfeat
